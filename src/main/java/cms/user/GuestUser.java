@@ -1,6 +1,6 @@
 package cms.user;
 
-public class GuestUser {
+public class GuestUser extends User{
 
 
 	public GuestUser(int id, String nome, String email, String password) {

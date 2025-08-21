@@ -1,6 +1,6 @@
 package cms.user;
 
-public class EditorUser {
+public class EditorUser extends User {
 
 
 	public EditorUser(int id, String nome, String email, String password) {
